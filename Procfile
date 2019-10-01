@@ -1,1 +1,1 @@
-web: bin/workflow-test-server-go
+web: workflow-test-server-go
